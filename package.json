@@ -1,6 +1,8 @@
 {
-  "name": "biblioteca-nuvem",
+  "name": "conectatech-feira-escolar",
   "version": "1.0.0",
+  "private": true,
+  "description": "Página institucional da feira escolar ConectaTech - Trabalho de Computação em Nuvem para Web II",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
